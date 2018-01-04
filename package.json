@@ -1,0 +1,13 @@
+{
+   "name": "mi-aplicacion",
+   "version": "1.0.0",
+   "dependencies": {
+      "express": "^4.13.3",
+      "monit": "^0.1.2",
+      "node-cron": "^1.2.1",
+      "node-rest-client": "^3.1.0"
+   },
+   "scripts": {
+      "start": "node app.js"
+   }
+}
